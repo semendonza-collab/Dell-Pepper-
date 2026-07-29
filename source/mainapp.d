@@ -13,9 +13,9 @@ void main()
 
  int[] list = [1, 2, 3, 7];
 
- for(1; 1 < 100; i++)
+ for(double i = 1; 1 < 100; i++)
  {
-  list[];
+  list;
   //double.alignof(destroy);
  }
 
