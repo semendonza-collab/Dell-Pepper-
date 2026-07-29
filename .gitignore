@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dellpeppers
+dellpeppers.so
+dellpeppers.dylib
+dellpeppers.dll
+libdellpeppers.a
+dellpeppers.a
+dellpeppers.lib
+dellpeppers-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
