@@ -15,7 +15,8 @@ void main()
 
  for(double i = 1; 1 < 100; i++)
  {
-  list;
+  writeln(list[1]);
+  //writeln(list[1]);
   //double.alignof(destroy);
  }
 

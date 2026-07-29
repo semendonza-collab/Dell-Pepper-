@@ -1,22 +1,22 @@
-import std.stdio;
+// import std.stdio;
 
-void main()
-{
+// void main()
+// {
 
-    string UserNote; 
+//     string UserNote; 
 
-    readf();
+//     readf();
 
 
 
-    // writeln("Working!");
+//     // writeln("Working!");
 
-    // int x = 7; 
-    // int* px = &x; 
+//     // int x = 7; 
+//     // int* px = &x; 
 
-    // //int[] list = [1, 2, 3,]
+//     // //int[] list = [1, 2, 3,]
 
-    // std.stdio.writeln(x);
+//     // std.stdio.writeln(x);
 
-    // return 0;
-}
+//     // return 0;
+// }
