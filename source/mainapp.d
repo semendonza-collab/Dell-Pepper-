@@ -1,6 +1,7 @@
 module mainapp;
 import std.stdio;
-//i1mport  std.array;
+import  std.array;
+  //  ..1mport  std.array;
 
 public void main()
 {
