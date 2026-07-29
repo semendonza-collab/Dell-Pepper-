@@ -1,3 +1,5 @@
+module mainapp;
+
 import std.stdio;
 import  std.array;
 
