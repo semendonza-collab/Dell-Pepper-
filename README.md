@@ -1,12 +1,20 @@
-# Dell-Pepper-
-To-Do app ! Me and my pal's first D project ! 
+# Dell Pepper
 
+A nice todo app in 
 
+> [!NOTE]
+> This project is made by rookies!
 
+## Install
 
+Clone the repo 
 
+```
+git clone git@github.com:semendonza-collab/Dell-Pepper-.git
+```
 
+build (make sure to be in the root)
 
-
-
-testss
+```
+dub build
+```
