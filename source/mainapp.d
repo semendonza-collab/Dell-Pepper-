@@ -1,8 +1,8 @@
 module mainapp;
 import std.stdio;
-import  std.array;
+//i1mport  std.array;
 
-void main()
+public void main()
 {
  
  bool listing = 0;                                        // everything here is important dont get rid of anything or i will chop my penis off and shove it up youre ass
