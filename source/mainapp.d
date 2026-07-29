@@ -5,21 +5,25 @@ import  std.array;
 
 public void main()
 {
- 
+ int number_of_notes; 
+
  bool listing = 0;                                        // everything here is important dont get rid of anything or i will chop my penis off and shove it up youre ass
- bool isListing;             
+ bool isListing;            
+  bool shitting = 0;   
 
  string UserNote; 
  readfln(UserNote);
 
- int[] list = [1, 2, 3, 7];
+ string[] list = ["Note", "Note", "Note", "Note"];
 
- for(double i = 1; 1 < 100; i++)
- {
-  writeln(list[1]);
-  //writeln(list[1]);
-  //double.alignof(destroy);
- }
+// if(isListing) {
+//  for(double i = 0; 1 < number_of_notes; i++)  
+//  {
+//   writeln(list[1]);
+//   //writeln(list[1]);
+//   //double.alignof(destroy);
+//  }
+// }
 
  if(UserNote == "list" || "List")
  {
@@ -34,13 +38,20 @@ public void main()
    }
 
  }
- if(listing)
+ if(listing || shitting)
  {
-  writeln(list);
+   for(double i = 0; 1 < number_of_notes; i++)
+ {
+  writeln(list[1]);
+  writeln(list[2]);
+ }
+ // writeln(list);
  } 
  else 
  {
-   writeln("Please use the !Help command.");
+   writeln("Please use the !Help command." ); //leave
  }
+// if(UserNote){
+  //writefln("Workuign on this he,p =-nodwe rldaspedpasdlk asdija siudaw dopa"); //leave 
   
 }
