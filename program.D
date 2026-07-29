@@ -7,7 +7,7 @@ int main()
     int x = 7; 
     int* px = &x; 
 
-    writeln(x);
+    std.stdio.writeln(x);
 
     return 0;
 }
