@@ -1,6 +1,6 @@
 # Dell Pepper
 
-A nice todo app in 
+A nice todo app in D
 
 > [!NOTE]
 > This project is made by rookies!
