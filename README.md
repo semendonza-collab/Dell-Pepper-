@@ -1,2 +1,7 @@
-# Dell-Pepper-
-To-Do app ! Me and my pal's first D project ! 
+# Dell Pepper
+
+A nice todo app in 
+
+> [!NOTE]
+> This project is made by rookies!
+
